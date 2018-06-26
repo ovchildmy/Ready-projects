@@ -1,0 +1,30 @@
+.personalWrap{
+	margin: 100px auto 0; 
+	width: 900px;
+	text-align: center;	
+	overflow: hidden; 
+}
+
+.personal{
+	border-radius: 5px;
+	margin-top: 30px;
+	width: 200px;
+	height: 380px;
+	background: white;
+	display: inline-block;
+}
+
+.personal img{
+	border-radius: 5px 5px 0 0;
+	height: 60%;
+}
+
+.personalBorder{
+	width: 1300px;
+	margin: 0 auto;
+}
+
+.personalBorderWrap{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9));
+	width: 100%;
+}
